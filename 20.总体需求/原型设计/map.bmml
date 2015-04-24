@@ -1,0 +1,49 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="639" measuredH="573" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="357" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="390" y="99" w="38" h="37" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Map" x="390" y="143" w="211" h="259" measuredW="252" measuredH="222" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="390" y="417" w="212" h="24" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7528%u65F6/%u91CC%u7A0B</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="569" y="370" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GeoLocation2Icon%7Csmall</icon>
+        <text>%u5B9A%u4F4D</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ButtonBar" x="380" y="461" w="228" h="27" measuredW="146" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml%2C%2CmyUnsign%26bm%3BmyUnsign.bmml%26bm%3BmyUnsign.bmml%26bm%3BmyUnsign.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C461%2C101%2C488%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C461%2C250%2C488%22%20href%3D%22myUnsign.bmml%22%20alt%3D%22myUnsign%22%20id%3D%227%22/%3E</map>
+        <text>%u9A91%u884C%2C%20Start%2C%20%20%u6211</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="380" y="271" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <icon>LeftFillTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C271%2C55%2C303%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%228%22/%3E</map>
+        <text>z</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="488" y="105" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>searchDestination%26bm%3BsearchDestination.bmml%26bm%3BsearchDestination.bmml%26bm%3BsearchDestination.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22131%2C105%2C251%2C130%22%20href%3D%22searchDestination.bmml%22%20alt%3D%22searchDestination%22%20id%3D%229%22/%3E</map>
+        <text>%u9009%u62E9%u76EE%u7684%u5730</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
